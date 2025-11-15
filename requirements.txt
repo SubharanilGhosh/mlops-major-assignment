@@ -1,2 +1,5 @@
 scikit-learn
 joblib
+Flask
+Pillow
+numpy
